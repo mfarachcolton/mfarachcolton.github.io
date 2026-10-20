@@ -161,5 +161,4 @@ ul.people li span { display: block; font-family: var(--sans); font-size: 13px; c
 .pvenue strong { font-weight: 600; }
 dl.honors dt { white-space: nowrap; }
 dl.honors { grid-template-columns: 72px 1fr; }
-ul.people li a { color: var(--fg); border-bottom: 1px solid var(--rule); }
-ul.people li a:hover { color: var(--accent); border-color: var(--accent); text-decoration: none; }
+ul.people li a { color: var(--accent); }
