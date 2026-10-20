@@ -1,0 +1,1625 @@
+\fields{Authors, Title, Info, Journal, Conference, Submitted, Label, Cross, Book, DOI, Link}
+
+
+\tuple{ Journal=1,
+  Authors={M.~A.~Bender, M.~Farach-Colton, M.~T.~Goodrich, H.~Koml\'os},
+    Title={History-Independent Dynamic Partitioning with Applications to B-Trees, Skip Lists and Fusion Trees},
+	Info={\emph{TODS}, 2026.  Selected for Special Issue of ACM Transactions on Database Systems, Best of PODS 2024},
+	DOI={10.1145/3810240},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3810240}
+}
+
+\tuple{ Journal=1,
+	Authors= {M.~A.~Bender, R.~Das, M.~Farach-Colton, T.~M.~Mo, D.~Tench, Y.~P.~Wang},
+	Title={Mitigating False Positives in Filters: to Adapt or to Cache},
+	Info={\emph{TODS} 51(3):17:1--17:32, 2026},
+	DOI={10.1145/3786324},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3786324}
+}
+
+\tuple{ Journal=1,
+	Authors= {M.~A.~Bender, A.~Conway, M.~Farach-Colton, W.~Kuszmaul, G.~Tagliavini},
+	Title={Tiny Pointers},
+	Info={\emph{TALG} 21(4):38:1--38:43, 2025.  Selected for Special Issue for SODA 2023},
+	DOI={10.1145/3700594},
+	Link={https://arxiv.org/pdf/2111.12800}
+}
+
+\tuple{ Journal=1,
+	Authors= {S.~Assadi, M.~Farach-Colton, W.~Kuszmaul},
+	Title={Tight Bounds for Monotone Minimal Perfect Hashing},
+	Info={\emph{TALG} 21(4):36:1--36:23, 2025.  Selected for Special Issue for SODA 2023},
+	DOI={10.1145/3677608},
+	Link={https://arxiv.org/pdf/2207.10556}
+}
+
+\tuple{ Journal=1,
+	Authors={M.~A.~Bender, A.~Bhattacharjee, A.~Conway, M.~Farach-Colton, R.~Johnson, S.~Kannan, W.~Kuszmaul, N.~Mukherjee, D.~E.~Porter, G.~Tagliavini, J.~Vorobyeva, E.~T.~West},
+	Title={Paging and the Address-Translation Problem},
+	Info={\emph{TALG} 21(4):43:1--43:22, 2025},
+	DOI={10.1145/3737700},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3737700}
+}
+
+\tuple{ Journal=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, M.~T.~Goodrich, H.~Koml\'os},
+	Title={History-Independent Dynamic Partitioning: Operation-Order Privacy in Ordered Data Structures},
+	Info={\emph{SIGMOD Record} 54(1):17--26, 2025.  \textbf{ACM SIGMOD Research Highlight Award}},
+	DOI={10.1145/3733620.3733625},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3733620.3733625}
+}
+
+\tuple{ Journal=1,
+	Authors={M.~A.~Bender, A.~Conway, M.~Farach-Colton, H.~Koml\'os, W.~Kuszmaul, N.~Wein},
+	Title={Online List Labeling: Breaking the $\log^2 n$ Barrier},
+	Info={\emph{SICOMP} 54(5):S22--S60, 2025.  Selected for Special Issue for FOCS 2022},
+	DOI={10.1137/22m1534468},
+	Link={https://arxiv.org/pdf/2203.02763}
+}
+
+\tuple{ Journal=1,
+	Authors= {K.~Gosakan, J.~Han, W.~Kuszmaul, I.~Mubarek, N.~Mukherjee, G.~Tagliavini, E.~T.~West, M.~A.~Bender, A.~Bhattacharjee, A.~Conway, M.~Farach-Colton, J.~Gandhi, R.~Johnson, S.~Kannan, D.~E.~Porter},
+	Title={Mosaic Pages: Big TLB Reach with Small Pages},
+	Info={\emph{IEEE Micro} 44(4):52--59, 2024.  Selected for \textbf{IEEE Micro Top Picks}},
+	DOI={10.1109/mm.2024.3409181}
+}
+
+\tuple{ Journal=1,
+	Authors= {D.~Tench, E.~T.~West, V.~Zhang, M.~A.~Bender, A.~Chowdhury, J.~A.~Dellas, M.~Farach-Colton, T.~Seip, K.~Zhang}, 
+	Title={GraphZeppelin: How to Find Connected Components (Even When Graphs Are Dense, Dynamic, and Massive)},
+	Info={\emph{TODS} 49(3):9:1--9:31, 2024},
+	DOI={10.1145/3643846},
+	Link={https://escholarship.org/content/qt7295h624/qt7295h624.pdf}
+}
+
+\tuple{ Journal=1,
+	Label={suffix-alpha},
+	Authors={M.~A.~Bender, A.~Conway, M.~Farach-Colton, W.~Kuszmaul, G.~Tagliavini},
+	Title={Iceberg Hashing: Optimizing Many Hash-Table Criteria at Once},
+	Info={\emph{JACM} 70(6):40:1--40:51, 2023},
+	DOI={10.1145/3625817},
+	Link={https://arxiv.org/pdf/2109.04548}
+}
+
+\tuple{ Journal=1,
+	Authors= {J.~Vorobyeva, D.~DeLayo, M.~A.~Bender, M.~Farach-Colton, P.~Pandey, C.~A.~Phillips, S.~Singh, E.~D.~Thomas, T.~M.~Kroeger},
+	Title= {Using Advanced Data Structures to Enable Responsive Security Monitoring},
+	Info={\emph{Cluster Computing} 25(4):2893--2914, 2022.  Selected for Special Issue on ``Innovating the Network for Data-Intensive Science''},
+	DOI={10.1007/s10586-021-03463-5}
+}
+
+\tuple{ Journal=1,
+	Authors= {M.~A.~Bender, J.~W.~Berry, M.~Farach-Colton, R.~Johnson, T.~M.~Kroeger, P.~Pandey, C.~A.~Phillips, S.~Singh},
+	Title={Timely Reporting of Heavy Hitters using External Memory},
+	Info={\emph{TODS} 46(4):14:1--14:35, 2021.  Selected for Special Issue of ACM Transactions on Database Systems, Best of SIGMOD 2020},
+	DOI={10.1145/3472392}
+}
+
+\tuple{ Journal=1,
+        Authors={M.~Farach-Colton, K.~Leal, M.~A.~Mosteiro, C.~Thraves Caro},
+        Title={Dynamic Windows Scheduling with Reallocation},
+        Info={\emph{JEA} 26:1.11:1--1.11:19, 2021},
+	DOI={10.1145/3462208},
+	Link={https://arxiv.org/pdf/1404.1087}
+}
+
+\tuple{ Journal=1,
+        Authors={M.~A.~Bender, A.~Conway, M.~Farach-Colton, W.~Jannen, Y.~Jiao, R.~Johnson, E.~Knorr, S.~McAllister, N.~Mukherjee, P.~Pandey, D.~E.~Porter, J.~Yuan, Y.~Zhan}, 
+        Title={External-Memory Dictionaries in the Affine and PDAM Models},
+        Info={\emph{TOPC} 8(3):15:1--15:20, 2021.  Selected for Special Issue for SPAA 2019},
+	DOI={10.1145/3470635}
+}
+
+\tuple{ Journal=1,
+	Authors= {Y.~Zhan, A.~Conway, Y.~Jiao, N.~Mukherjee, I.~Groombridge, M.~A.~Bender, M.~Farach-Colton, W.~Jannen, R.~Johnson, D.~E.~Porter, J.~Yuan},
+	Title={Copy-on-Abundant-Write for Nimble File System Clones},
+  Info={\emph{TOS} 17(1):5:1--5:27, 2021.  Selected for Special Section for USENIX FAST 2020},
+	DOI={10.1145/3423495}
+}
+
+\tuple{ Journal=1,
+  Authors={Y.~Zhan, A.~Conway, Y.~Jiao, E.~Knorr, M.~A.~Bender, M.~Farach-Colton, W.~Jannen, R.~Johnson, D.~E.~Porter, J.~Yuan},
+Title={Efficient directory mutations in a full-path indexed file system},
+Info={\emph{TOS} 14(3):22:1--22:27, 2018.  Selected for Special Issue for USENIX FAST 2018},
+	DOI={10.1145/3241061},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3241061}
+}
+
+\tuple{ Journal=1,
+  Authors={J.~Yuan, Y.~Zhan, W.~Jannen, P.~Pandey, A.~Akshintala, K.~Chandnani, P.~Deo, Z.~Kasheff, L.~Walsh, M.~A.~Bender, M.~Farach-Colton, R.~Johnson, B.~C.~Kuszmaul, D.~E.~Porter},
+Title={Writes Wrought Right, and Other Adventures in File System Optimization},
+Info={\emph{TOS} 13(1):3:1--3:26, 2017.  Selected for Special Issue for USENIX FAST 2016},
+	DOI={10.1145/3032969},
+	Link={https://cdr.lib.unc.edu/downloads/gq67k690v}
+}
+
+\tuple{ Journal=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, S.~Fekete, J.~Fineman, S.~Gilbert},
+	Title={Cost-Oblivious Reallocation},
+	Info={\emph{TALG} 13(3):38:1--38:20, 2017},
+	DOI={10.1145/3070693},
+	Link={https://arxiv.org/pdf/1404.2019}
+}
+
+\tuple{ Journal=1,
+	Authors={P.~S.~Almeida, C.~Baquero, M.~Farach-Colton, P.~Jesus, M.~A.~Mosteiro},
+	Title={Fault-Tolerant Aggregation: Flow Update Meets Mass Distribution},
+	Info={\emph{Distrib.\ Comput.} 30(4):281--291, 2017},
+	DOI={10.1007/s00446-016-0288-5},
+	Link={https://arxiv.org/pdf/1109.4373}
+}
+
+\tuple{ Journal=1,
+   Authors={A.~Apostolico, M.~Crochemore, M.~Farach-Colton, Z.~Galil, S.~Muthukrishnan},
+   Title={40 Years of Suffix Trees},
+   Info={\emph{CACM} 59(4):66--73, 2016},
+	DOI={10.1145/2810036}
+}
+
+\tuple{ Journal=1,
+   Authors={M.~Farach-Colton and M.-T.~Tsai},
+   Title={Exact Sublinear Binomial Sampling},
+   Info={\emph{Algorithmica} 73(4):637--651, 2015.  Selected for Special Issue for ISAAC 2013},
+	DOI={10.1007/s00453-015-0077-8}
+}
+
+\tuple{Journal=1,
+	Authors={M.~Farach-Colton and M.~A.~Mosteiro},
+	Title={Initializing Sensor Networks of Non-uniform Density in the Weak Sensor Model},
+	Info={\emph{Algorithmica} 73(1):87--114, 2015},
+	DOI={10.1007/s00453-014-9905-5}
+}
+
+\tuple{ Journal=1,
+  Authors={W.~Jannen, J.~Yuan, Y.~Zhan, A.~Akshintala, J.~Esmet, Y.~Jiao, A.~Mittal, P.~Pandey, P.~Reddy, L.~Walsh, M.~A.~Bender, M.~Farach-Colton, R.~Johnson, B.~C.~Kuszmaul, D.~E.~Porter},
+  Title={BetrFS: {A} Right-Optimized Write-Optimized File System},
+  Info={\emph{TOS} 11(4):18:1--18:29, 2015.  Selected for Special Issue for USENIX FAST 2015},
+	DOI={10.1145/2798729},
+	Link={https://dl.acm.org/doi/pdf/10.1145/2798729}
+}
+
+\tuple{Journal=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, S.~Fekete, J.~Fineman, S.~Gilbert},
+	Title={Reallocation Problems in Scheduling},
+	Info={\emph{Algorithmica} 73(2):389--409, 2015},
+	DOI={10.1007/s00453-014-9930-4},
+	Link={https://arxiv.org/pdf/1305.6555}
+}
+
+\tuple{Journal=1,
+	Authors={M.~Farach-Colton, A.~Fern\'andez-Anta, M.~A.~Mosteiro},
+	Title={Optimal Memory-aware Sensor Network Gossiping},
+	Info={\emph{TCS} 472:60--80, 2013},
+	DOI={10.1016/j.tcs.2012.11.030},
+	Link={https://www.sciencedirect.com/science/article/pii/S0304397512010730/pdf}
+}
+
+\tuple{Journal=1,
+	Authors={M.~Farach-Colton, R.~J.~Fernandes, M.~A.~Mosteiro},
+	Title={Bootstrapping a Hop-optimal Network in the Weak Sensor Model},
+	Info={\emph{TALG} 5(4):37:1--37:30, 2009},
+	DOI={10.1145/1597036.1597040}
+}
+
+\tuple{Journal=1,
+	Authors={P.~Bille and M.~Farach-Colton},
+	Title={Fast and Compact Regular Expression Matching},
+	Info={\emph{TCS} 409(3):486--496, 2008},
+	DOI={10.1016/j.tcs.2008.08.042},
+	Link={https://arxiv.org/pdf/cs/0509069}
+}
+
+\tuple{ Journal=1,
+	Authors={N.~Alon, M.~B\u{a}doiu, E.~Demaine, M.~Farach-Colton, M.~Hajiaghayi, A.~Sidiropoulos},
+	Title={Ordinal Embeddings of Minimum Relaxation: General Properties, Trees, and Ultrametrics},
+	Info={\emph{TALG} 4(4):46:1--46:21, 2008},
+	DOI={10.1145/1383369.1383377}
+}
+
+\tuple{ Journal=1,
+	Authors={M.~Farach-Colton, G.~Landau, C.~\c{S}ahinalp, D.~Tsur},
+	Title={Optimal spaced seeds for faster approximate string matching},
+	Info={\emph{JCSS} 73(7):1035--1044, 2007},
+	DOI={10.1016/j.jcss.2007.03.007},
+	Link={https://doi.org/10.1016/j.jcss.2007.03.007}
+}
+
+\tuple{ Journal=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, M.~A.~Mosteiro},
+	Title={Insertion Sort is $O(n \log n)$},
+	Info={\emph{ToCS} 39(3):391--397, 2006.  Selected for Special Issue for FUN 2004},
+	DOI={10.1007/s00224-005-1237-z},
+	Link={https://arxiv.org/pdf/cs/0407003}
+}
+
+\tuple{ Journal=1,
+	Authors={M.~Farach-Colton and R.~Shah},
+	Title={On the Complexity of Ordinal Clustering},
+	Info={\emph{J.\ Classif.} 23(1):79--102, 2006},
+	DOI={10.1007/s00357-006-0005-3}
+}
+
+\tuple{ Journal=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, G.~Pemmasani, S.~Skiena, P.~Sumazin},
+	Title={All-Pairs Lowest Common Ancestors in Trees and Directed Acyclic Graphs},
+	Info={\emph{J.\ Algorithms} 57(2):75--94, 2005},
+	DOI={10.1016/j.jalgor.2005.08.001}
+}
+
+\tuple{ Journal=1,
+	Label={cob-tree},
+	Authors={M.~A.~Bender, E.~Demaine, M.~Farach-Colton},
+	Title={Cache-Oblivious B-Trees},
+	Info={\emph{SICOMP} 35(2):341--358, 2005},
+	DOI={10.1137/s0097539701389956}
+}
+
+\tuple{ Journal=1,
+	Authors={M.~Charikar, K.~Chen, M.~Farach-Colton},
+	Title={Finding Frequent Items in Data Streams},
+	Info={\emph{TCS} 312(1):3--15, 2004},
+	DOI={10.1016/s0304-3975(03)00400-6},
+	Link={https://doi.org/10.1016/s0304-3975(03)00400-6}
+}
+
+\tuple{ Journal=1,
+	Label={la-simp},
+	Authors={M.~A.~Bender and M.~Farach-Colton},
+	Title={The Level Ancestor Problem Simplified},
+	Info={\emph{TCS} 321(1):5--12, 2004},
+	DOI={10.1016/j.tcs.2003.05.002},
+	Link={https://doi.org/10.1016/j.tcs.2003.05.002}
+}
+
+\tuple{ Journal=1,
+	Authors={C.~Womack and M.~Farach},
+	Title={Randomization, Rigor and Persuasiveness in Proofs},
+	Info={\emph{Synthese} 134(1--2):71--84, 2003},
+	DOI={10.1023/A:1022183530114}
+}
+
+\tuple{ Journal=1,
+	Authors={V.~Choi and M.~Farach-Colton},
+	Title={{\sc Barnacle:} An Assembly Algorithm for Clone-based Sequences of Whole Genomes},
+	Info={\emph{Gene} 320:165--176, 2003},
+	DOI={10.1016/s0378-1119(03)00825-4},
+	Link={https://arxiv.org/pdf/cs/0302005}
+}
+
+\tuple{ Journal=1,
+	Label={fastfrugal},
+	Authors={Y.~Bartal, M.~Farach-Colton, S.~Yooseph, L.~Zhang},
+	Title={Fast, Fair and Frugal Bandwidth Allocation in ATM Networks},
+	Info={\emph{Algorithmica} 33(3):272--286, 2002},
+	DOI={10.1007/s00453-001-0119-2}
+}
+
+\tuple{ Journal=1,
+	Label={binmast:sicomp},
+	Authors={R.~Cole, M.~Farach-Colton, R.~Hariharan, T.~Przytycka, M.~Thorup},
+	Title={An $O(n\log n)$ Algorithm for the Maximum Agreement Subtree Problem for Binary Trees},
+	Info={\emph{SICOMP} 30(5):1385--1404, 2000},
+	DOI={10.1137/s0097539796313477}
+}
+
+\tuple{ Journal=1,
+	Label={registerallocation},
+	Authors={M.~Farach-Colton and V.~Liberatore},
+	Title={On Local Register Allocation},
+	Info={\emph{J.\ Algorithms} 37(1):37--65, 2000},
+	DOI={10.1006/jagm.2000.1095}
+}
+
+\tuple{ Journal=1,
+	Label={notung},
+	Authors={K.~Chen, D.~Durand, M.~Farach-Colton},
+	Title={Notung: Dating gene duplications using gene family trees},
+	Info={\emph{JCB} 7(3--4):429--447, 2000},
+	DOI={10.1089/106652700750050871}
+}
+
+\tuple{ Journal=1,
+	Label={suffix-alpha},
+	Authors={M.~Farach-Colton, P.~Ferragina, S.~Muthukrishnan},
+	Title={On the Sorting-Complexity of Suffix Tree Construction},
+	Info={\emph{JACM} 47(6):987--1011, 2000},
+	DOI={10.1145/355541.355547},
+	Link={https://dl.acm.org/doi/pdf/10.1145/355541.355547}
+}
+
+\tuple{ Journal=1,
+	Label={FK:MLE},
+	Authors={M.~Farach and S.~Kannan},
+	Title={Efficient Algorithms for Inverting Evolution},
+	Info={\emph{JACM} 46(4):437--449, 1999},
+	DOI={10.1145/320211.320212},
+	Link={https://dl.acm.org/doi/pdf/10.1145/320211.320212}
+}
+
+\tuple{ Journal=1,
+	Label={ABFNPT},
+	Authors={R.~Agarwala, V.~Bafna, M.~Farach, M.~Paterson, M.~Thorup},
+	Title={On the Approximability of Numerical Taxonomy (Fitting Distances by Tree Metrics)},
+	Info={\emph{SICOMP} 28(3):1073--1085, 1999},
+	DOI={10.1137/s0097539795296334}
+}
+
+\tuple{ Journal=1,
+	Label={ABF:2dpar},
+	Authors={A.~Amir, G.~Benson, M.~Farach},
+	Title={Optimal Parallel Two Dimensional Text Searching on a CREW PRAM},
+	Info={\emph{Inf.\ Comput.} 144(1):1--17, 1998},
+	DOI={10.1006/inco.1998.2705},
+	Link={https://doi.org/10.1006/inco.1998.2705}
+}
+
+\tuple{ Journal=1,
+	Label={FT:LZ1},
+	Authors={M.~Farach and M.~Thorup},
+	Title={String Matching in Lempel-Ziv Compressed Strings},
+	Info={\emph{Algorithmica} 20(4):388--404, 1998},
+	DOI={10.1007/pl00009202}
+}
+
+\tuple{ Journal=1,
+	Authors={M.~Farach and S.~Muthukrishnan},
+	Title={Optimal Parallel Randomized Renaming},
+	Info={\emph{IPL} 61(1):7--10, 1997},
+	DOI={10.1016/s0020-0190(96)00182-2}
+}
+
+\tuple{ Journal=1,
+        Label={FT:SICOMP},
+        Authors={M.~Farach and M.~Thorup},
+        Title={Sparse Dynamic Programming for Evolutionary Tree Comparison},
+        Info={\emph{SICOMP} 26(1):210--230, 1997},
+	DOI={10.1137/s0097539794262422}
+}
+
+\tuple{	Journal=1,
+	Label={ABF:2dcompmatch},
+	Authors={A.~Amir, G.~Benson, M.~Farach},
+	Title={Optimal Two Dimensional Compressed Matching}, 
+	Info={\emph{J.\ Algorithms} 24(2):354--379, 1997},
+	DOI={10.1006/jagm.1997.0860}
+}
+
+\tuple{ Journal=1,
+	Label={CFT:CDM},
+	Authors={M.~Farach},
+	Title={Recognizing Circular Decomposable Metrics},
+	Info={\emph{JCB} 4(2):157--162, 1997},
+	DOI={10.1089/cmb.1997.4.157}
+}
+
+\tuple{ Journal=1,
+	Label={Lattice:JCB},
+	Authors={R.~Agarwala, S.~Batzoglou, V.~Dan{\v c}{\'\i}k, S.~Decatur, M.~Farach, S.~Hannenhalli, S.~Muthukrishnan, S.~Skiena},
+	Title={Local Rules for Protein Folding on the Triangular Lattice and Generalized Hydrophobicity in the HP Model},
+	Info={\emph{JCB} 4(3):275--296, 1997},
+	DOI={10.1089/cmb.1997.4.275}
+}
+
+\tuple{ Journal=1,
+	Label={NumTaxData:JCB},
+	Authors={J.~Cohen and M.~Farach},
+	Title={Numerical Taxonomy on Data: Experimental Results},
+	Info={\emph{JCB} 4(4):547--558, 1997},
+	DOI={10.1089/cmb.1997.4.547}
+}
+
+\tuple{	Journal=1,
+	Label={ABF:JCSS},
+	Authors={A.~Amir, G.~Benson, M.~Farach},
+	Title={Let Sleeping Files Lie: Pattern Matching in Z-compressed Files},
+	Info={\emph{JCSS} 52(2):299--307, 1996},
+	DOI={10.1006/jcss.1996.0023},
+	Link={https://doi.org/10.1006/jcss.1996.0023}
+}
+
+\tuple{	Journal=1,
+	Label={FTP:IPL},
+	Authors={M.~Farach, T.~Przytycka, M.~Thorup},
+	Title={On the Agreement of Many Trees},
+	Info={\emph{IPL} 55(6):297--301, 1995},
+	DOI={10.1016/0020-0190(95)00110-x}
+}
+
+\tuple{	Journal=1,
+	Label={FT:InC},
+	Authors={M.~Farach and M.~Thorup},
+	Title={Fast Comparison of Evolutionary Trees},
+	Info={\emph{Inf.\ Comput.} 123(1):29--37, 1995},
+	DOI={10.1006/inco.1995.1155},
+	Link={https://doi.org/10.1006/inco.1995.1155}
+}
+
+\tuple{	Journal=1,
+	Label={AFILS:InC},
+	Authors={A.~Amir, M.~Farach, R.~Idury, H.~La Poutr\'{e}, A.~Sch\"affer},
+	Title={Improved Dynamic Dictionary Matching},
+	Info={\emph{Inf.\ Comput.} 119(2):258--282, 1995},
+	DOI={10.1006/inco.1995.1090},
+	Link={https://doi.org/10.1006/inco.1995.1090}
+}
+
+\tuple{	Journal=1,
+	Label={AF:InC},
+	Authors={A.~Amir and M.~Farach},
+	Title={Efficient 2-dimensional Approximate Matching of Half-rectangular Figures},
+	Info={\emph{Inf.\ Comput.} 118(1):1--11, 1995},
+	DOI={10.1006/inco.1995.1047},
+	Link={https://doi.org/10.1006/inco.1995.1047}
+}
+
+\tuple{	Journal=1,
+	Label={FKW:Algo},
+	Authors={M.~Farach, S.~Kannan, T.~Warnow},
+	Title={A Robust Model for Finding Optimal Evolutionary Trees},
+	Info={\emph{Algorithmica} 13(1--2):155--179, 1995.  Special Issue on Computational Biology},
+	DOI={10.1007/bf01188585}
+}
+
+\tuple{	Journal=1,
+	Label={AFM:IPL},
+	Authors={A.~Amir, M.~Farach, S.~Muthukrishnan},
+	Title={Alphabet Dependence in Parameterized Matching},
+	Info={\emph{IPL} 49(3):111--115, 1994},
+	DOI={10.1016/0020-0190(94)90086-8}
+}
+
+\tuple{	Journal=1,
+	Label={AFGGP:JCSS},
+	Authors={A.~Amir, M.~Farach, R.~Giancarlo, Z.~Galil, K.~Park},
+	Title={Dynamic Dictionary Matching},
+	Info={\emph{JCSS} 49(2):208--222, 1994},
+	DOI={10.1016/s0022-0000(05)80047-9},
+	Link={https://doi.org/10.1016/s0022-0000(05)80047-9}
+}
+
+\tuple{	Journal=1,
+	Label={ABF:SIComp},
+	Authors={A.~Amir, G.~Benson, M.~Farach},
+	Title={An Alphabet Independent Approach to Two Dimensional Pattern Matching},
+	Info={\emph{SICOMP} 23(2):313--323, 1994},
+	DOI={10.1137/s0097539792226321}
+}
+
+\tuple{	Journal=1,
+	Label={AF:IPL92},
+	Authors={A.~Amir and M.~Farach},
+	Title={Two Dimensional Dictionary Matching},
+	Info={\emph{IPL} 44(5):233--239, 1992},
+	DOI={10.1016/0020-0190(92)90206-b}
+}
+
+\tuple{	Journal=1,
+	Label={AFI:IPL91},
+	Authors={A.~Apostolico, M.~Farach, C.~Iliopoulos},
+	Title={Optimal Superprimitivity Testing for Strings},
+	Info={\emph{IPL} 39(1):17--20, 1991},
+	DOI={10.1016/0020-0190(91)90056-n}
+}
+
+\tuple{	Journal=1,
+	Label={AF:AMAI91},
+	Authors={A.~Amir and M.~Farach},
+	Title={Efficient Matching of Nonrectangular Shapes},
+	Info={\emph{Ann.\ Math.\ Artif.\ Intell.} 4:211--224, 1991},
+	DOI={10.1007/bf01531057}
+}
+
+\tuple{	Journal=1,
+	Label={WFTR:JETAI},
+	Authors={J.~Wald, M.~Farach, M.~Tagamets, J.~Reggia},
+	Title={Generating Plausible Diagnostic Hypotheses with Self-processing Causal Networks},
+	Info={\emph{J.\ Exp.\ Theor.\ Artif.\ Intell.} 1(2):91--112, 1989},
+	DOI={10.1080/09528138908953695}
+}
+
+\tuple{ Conference=1,
+	Authors={P.~Afshani, M.~A.~Bender, P.~Bille, A.~Conway, M.~Farach-Colton, J.~Fineman, M.~T.~Goodrich, I.~G\o{}rtz, J.~Iacono, R.~Johnson, H.~Koml\'{o}s, W.~Kuszmaul, R.~Silver, R.~Tarjan, S.~Tarnow, R.~Zhou},
+	Title={Popcorning: Repurposing Write-Optimization Buffers for Faster Queries},
+	Info={\emph{PODS '27}}}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, A.~Conway, M.~Farach-Colton, H.~Koml\'os, W.~Kuszmaul, N.~Wein},
+	Title={Tight Bounds for Memory Allocation With and Without Request Fragmentation},
+	Info={\emph{SODA '27}},
+	Link={https://arxiv.org/pdf/2608.28462}
+}
+
+\tuple{ Conference=1,
+	Authors={A.~Conway, L.~Dhulipala, M.~Farach-Colton, B.~Landrum, C.~Musco, Y.~Shechter, T.~Suel, R.~Wen},
+	Title={Fast Sparse $\alpha$-Navigable Graph Construction with Improved Resource Augmentation},
+	Info={\emph{SODA '27}}
+}
+
+\tuple{ Conference=1,
+        Authors={M.~A.~Bender, P.~Bille, M.~Farach-Colton, J.~Fineman, I.~G{\o}rtz, M.~T.~Goodrich, H.~Koml\'{o}s, B.~C.~Kuszmaul, W.~Kuszmaul, R.~Silver, T.~Veldhuizen, R.~Zhou},
+        Title={The Local/Global Disk Problem: How to Use Shared High-Bandwidth  Storage Economically},
+        Info={\emph{SPAA '26}.  \textbf{Outstanding Paper Award}},
+	DOI={10.1145/3816782.3819205}
+}
+
+\tuple{ Conference=1,
+        Authors={M.~A.~Bender, G.~Blelloch, M.~Farach-Colton, R.~Zhou, R.~Johnson, R.~Oshman, Y.~Hu},
+        Title={Fast Concurrent Primitives Despite Contention},
+        Info={\emph{SPAA '26}},
+	DOI={10.1145/3816782.3819207},
+	Link={https://arxiv.org/pdf/2604.14530}
+}
+
+\tuple{ Conference=1,
+	Authors={A.~Krapivin, M.~Farach-Colton, W.~Kuszmaul},
+	Title={Greedy Open Addressing Revisited: Beyond Yao's Lower Bound},
+	Info={\emph{STOC '26}},
+	DOI={10.1145/3798129.3800823}
+}
+
+\tuple{ Conference=1,
+	Authors= {A.~Krapivin, A.~Rangarajan, A.~Conway, M.~Farach-Colton, R.~Johnson, P.~Pandey},
+	Title={Breadcrumb Filters: Fast Fully Featured Filters},
+	Info={\emph{SIGMOD '26}},
+	DOI={10.1145/3786629},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3786629}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, A.~Bernstein, N.~Cao, A.~Conway, M.~Farach-Colton, H.~Koml\'os, Y.~Shechter, N.~Wein},
+	Title={Bounding the Fragmentation of B-Trees Subject to Batched Insertions},
+	Info={\emph{SIGMOD '26}},
+	DOI={10.1145/3801894},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3801894}
+}
+
+\tuple{ Conference=1,
+        Authors={A.~Conway, L.~Dhulipala, M.~Farach-Colton, R.~Johnson, B.~Landrum, C.~Musco, Y.~Shechter, T.~Suel, R.~Wen},
+        Title={Efficiently Constructing Sparse Navigable Graphs},
+       	Info={\emph{SODA '26}},
+	DOI={10.1137/1.9781611978971.59},
+	Link={https://arxiv.org/pdf/2507.13296}
+}
+
+\tuple{ Conference=1,
+        Authors={M.~A.~Bender, A.~Conway, D.~DeLayo, M.~Farach-Colton, J.~Han, R.~Johnson, W.~Kuszmaul, E.~T.~West},
+        Title={Don't Melt Your Cache: Low-Associativity with Heat-Sink},
+        Info={\emph{SPAA '25}.  \textbf{Distinguished Paper Award}.  Invited for a presentation at IGAFIT Highlights of Algorithms (HALG) 2026},
+	DOI={10.1145/3694906.3743303},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3694906.3743303}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, R.~Jacob, H.~Koml\'os, D.~Tench, E.~T.~West},
+	Title={The Case for External Graph Sketching},
+	Info={\emph{ACDA '25}},
+	DOI={10.1137/1.9781611978759.9},
+	Link={https://escholarship.org/content/qt0hf4z040/qt0hf4z040.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors={D.~Tench, E.~T.~West, K.~Zhang, M.~A.~Bender, D.~DeLayo, M.~Farach-Colton, G.~Gill, T.~Seip, V.~Zhang},
+	Title={Exploring the Landscape of Distributed Graph Sketching},
+	Info={\emph{ALENEX '25}},
+	DOI={10.1137/1.9781611978339.11},
+	Link={https://escholarship.org/content/qt2339k0f4/qt2339k0f4.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors= {H.~Attiya, M.~A.~Bender, M.~Farach-Colton, R.~Oshman, N.~Schiller},
+	Title={History-Independent Concurrent Hash Tables},
+	Info={\emph{STOC '25}},
+	DOI={10.1145/3717823.3718283},
+	Link={https://arxiv.org/pdf/2503.21016}
+}
+
+\tuple{ Conference=1,
+	Authors= {R.~Wen, H.~McCoy, D.~Tench, G.~Tagliavini, M.~A.~Bender, A.~Conway, M.~Farach-Colton, R.~Johnson, P.~Pandey},
+	Title={Adaptive Quotient Filters},
+	Info={\emph{SIGMOD '25}},
+	DOI={10.1145/3677128},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3677128}
+}
+
+\tuple{ Conference=1,
+	Authors={A.~Krapivin, M.~Farach-Colton, W.~Kuszmaul},
+	Title={Optimal Bounds for Open Addressing Without Reordering},
+	Info={\emph{FOCS '24}},
+	DOI={10.1109/focs61266.2024.00045},
+	Link={https://arxiv.org/pdf/2501.02305}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, A.~Conway, M.~Farach-Colton, H.~Koml\'os, M.~Kouck\'y, W.~Kuszmaul, M.~Saks},
+	Title={Nearly Optimal List Labeling},
+	Info={\emph{FOCS '24}},
+	DOI={10.1109/focs61266.2024.00132},
+	Link={https://arxiv.org/pdf/2405.00807}
+}
+
+\tuple{ Conference=1,
+        Authors={H.~Attiya, M.~A.~Bender, M.~Farach-Colton, R.~Oshman, N.~Schiller},
+        Title={History-Independent Concurrent Objects},
+        Info={\emph{PODC '24}},
+	DOI={10.1145/3662158.3662814},
+	Link={https://arxiv.org/pdf/2403.14445}
+}
+
+\tuple{ Conference=1,
+        Authors={M.~Farach-Colton, W.~Kuszmaul, N.~Sheffield, A.~Westover},
+        Title={A Nearly Quadratic Improvement for Memory Reallocation},
+        Info={\emph{SPAA '24}},
+	DOI={10.1145/3626183.3659965},
+	Link={https://arxiv.org/pdf/2405.12152}
+}
+
+\tuple{ Conference=1,
+	Authors={P.~Bille, M.~Farach-Colton, I.~G{\o}rtz, I.~van der Hoog},
+	Title={Snake in Optimal Space and Time},
+	Info={\emph{FUN '24}},
+	DOI={10.4230/LIPIcs.FUN.2024.3},
+	Link={https://doi.org/10.4230/lipics.fun.2024.3}
+}
+
+\tuple{ Conference=1,
+  Authors={M.~A.~Bender, M.~Farach-Colton, M.~T.~Goodrich, H.~Koml\'os},
+    Title={History-Independent Dynamic Partitioning: Operation-Order Privacy in Ordered Data Structures},
+      Info={\emph{PODS '24}.  \textbf{Best Paper Award}.  \textbf{ACM SIGMOD Research Highlight Award}.  Selected for Special Issue of ACM Transactions on Database Systems, Best of PODS 2024.  Invited for a presentation at IGAFIT Highlights of Algorithms (HALG) 2026},
+	DOI={10.1145/3651609},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3651609}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, A.~Conway, M.~Farach-Colton, H.~Koml\'os, W.~Kuszmaul},
+    Title={Layered List Labeling},
+      Info={\emph{PODS '24}},
+	DOI={10.1145/3651602},
+	Link={https://arxiv.org/pdf/2404.16623}
+}
+
+\tuple{ Conference=1,
+	Authors={P.~Pandey, M.~Farach-Colton, N.~Dayan, H.~Zhang},
+	Title={Beyond Bloom: A Tutorial on Future Feature-Rich Filters},
+	Info={\emph{SIGMOD '24} (Tutorial)},
+	DOI={10.1145/3626246.3654681}
+}
+
+\tuple{ Conference=1,
+        Authors={M.~A.~Bender, M.~Farach-Colton, J.~Kuszmaul, W.~Kuszmaul},
+        Title={Modern Hashing Made Simple},
+        Info={\emph{SOSA '24}},
+	DOI={10.1137/1.9781611977936.33}
+}
+
+\tuple{ Conference=1,
+        Authors={G.~Farach-Colton, M.~Farach-Colton, L.~A.~Goldberg, H.~Koml\'os, J.~Lapinskas, R.~Levi, M.~Medina, M.~A.~Mosteiro},
+        Title={Graph Ranking and the Cost of Sybil Defense},
+        Info={\emph{EC '23}},
+	DOI={10.1145/3580507.3597782},
+	Link={https://arxiv.org/pdf/1803.05001}
+}
+
+\tuple{ Conference=1,
+        Authors={M.~A.~Bender, R.~Das, M.~Farach-Colton, G.~Tagliavini},
+        Title={An Associativity Threshold Phenomenon in Set-Associative Caches},
+        Info={\emph{SPAA '23}},
+	DOI={10.1145/3558481.3591084},
+	Link={https://arxiv.org/pdf/2304.04954}
+}
+
+\tuple{ Conference=1,
+  Authors={P.~Dillinger, M.~Farach-Colton, G.~Tagliavini, S.~Walzer},
+    Title={Optimal Uncoordinated Unique IDs},
+      Info={\emph{PODS '23}},
+	DOI={10.1145/3584372.3588674},
+	Link={https://arxiv.org/pdf/2304.07109}
+}
+
+\tuple{ Conference=1,
+	Authors= {K.~Gosakan, J.~Han, W.~Kuszmaul, I.~Mubarek, N.~Mukherjee, G.~Tagliavini, E.~T.~West, M.~A.~Bender, A.~Bhattacharjee, A.~Conway, M.~Farach-Colton, J.~Gandhi, R.~Johnson, S.~Kannan, D.~E.~Porter},
+	Title={Mosaic Pages: Big TLB Reach with Small Pages},
+	Info={\emph{ASPLOS '23}.  \textbf{Distinguished Paper Award}.  Selected for \textbf{IEEE Micro Top Picks}},
+	DOI={10.1145/3582016.3582021},
+	Link={https://dspace.mit.edu/bitstream/1721.1/150362/1/3582016.3582021.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors= {S.~Assadi, M.~Farach-Colton, W.~Kuszmaul},
+	Title={Tight Bounds for Monotone Minimal Perfect Hashing},
+	Info={\emph{SODA '23}.  Selected for Special Issue for SODA 2023},
+	DOI={10.1137/1.9781611977554.ch20},
+	Link={https://arxiv.org/pdf/2207.10556}
+}
+
+\tuple{ Conference=1,
+	Authors= {M.~A.~Bender, A.~Conway, M.~Farach-Colton, W.~Kuszmaul, G.~Tagliavini},
+	Title={Tiny Pointers},
+	Info={\emph{SODA '23}.  Selected for Special Issue for SODA 2023},
+	DOI={10.1137/1.9781611977554.ch21},
+	Link={https://arxiv.org/pdf/2111.12800}
+}
+
+\tuple{ Conference=1,
+	Authors= {M.~A.~Awad, S.~Ashkiani, S.~Porumbescu, M.~Farach-Colton, J.~D.~Owens}, 
+	Title={Analyzing and Implementing GPU Hash Tables},
+	Info={\emph{APOCS '23}},
+	DOI={10.1137/1.9781611977578.ch3}
+}
+
+\tuple{ Conference=1,
+	Authors= {P.~Pandey, A.~Conway, M.~A.~Bender, J.~Durie, M.~Farach-Colton, W.~Kuszmaul, R.~Johnson, G.~Tagliavini}, 
+	Title={\textsc{IcebergHT}: High Performance PMEM Hash Tables Through Stability and Low Associativity}, 
+	Info={\emph{SIGMOD '23}},
+	DOI={10.1145/3588727},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3588727}
+}
+
+\tuple{ Conference=1,
+	Authors= {A.~Conway, M.~Farach-Colton, R.~Johnson}, 
+	Title={SplinterDB and Maplets: Improving the Tradeoffs in Key-Value Store Compaction Policy},
+	Info={\emph{SIGMOD '23}},
+	DOI={10.1145/3588726},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3588726}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, A.~Conway, M.~Farach-Colton, H.~Koml\'os, W.~Kuszmaul, N.~Wein},
+	Title={Online List Labeling: Breaking the $\log^2 n$ Barrier},
+	Info={\emph{FOCS '22}.  Selected for Special Issue for FOCS 2022.  Invited for a presentation at IGAFIT Highlights of Algorithms (HALG) 2023},
+	DOI={10.1109/focs54457.2022.00096},
+	Link={https://arxiv.org/pdf/2203.02763}
+}
+
+\tuple{ Conference=1,
+	Authors= {D.~Tench, E.~T.~West, V.~Zhang, M.~A.~Bender, A.~Chowdhury, J.~A.~Dellas, M.~Farach-Colton, T.~Seip, K.~Zhang}, 
+	Title={GraphZeppelin: Storage-Friendly Sketching for Connected Components on Dynamic Graph Streams},
+	Info={\emph{SIGMOD '22}},
+	DOI={10.1145/3514221.3526146},
+	Link={https://arxiv.org/pdf/2203.14927}
+}
+
+\tuple{ Conference=1,
+	Authors= {M.~A.~Bender, M.~Farach-Colton, J.~Kuszmaul, W.~Kuszmaul, M.~Liu},
+	Title= {On the Optimal Time/Space Tradeoff for Hash Tables},
+	Info= {\emph{STOC '22}},
+	DOI={10.1145/3519935.3519969},
+	Link={https://dspace.mit.edu/bitstream/1721.1/146419/1/3519935.3519969.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors= {Y.~Jiao, S.~Bertron, S.~Patel, L.~Zeller, R.~Bennett, N.~Mukherjee, M.~A.~Bender, M.~Condict, A.~Conway, M.~Farach-Colton, X.~Ge, W.~Jannen, R.~Johnson, D.~E.~Porter, J.~Yuan}, 
+	Title= {A Compleat File System for Commodity SSDs},
+	Info= {\emph{EuroSys '22}.  Artifacts Available, Artifacts Functional, Results Reproducible Badges},
+	DOI={10.1145/3492321.3519571}
+}
+
+\tuple{ Conference=1,
+	Authors= {M.~A.~Bender, M.~Farach-Colton, W.~Kuszmaul},
+	Title= {What Does Dynamic Optimality Mean in External Memory?},
+	Info= {\emph{ITCS '22}},
+	DOI={10.4230/LIPIcs.ITCS.2022.18},
+	Link={https://doi.org/10.4230/lipics.itcs.2022.18}
+}
+
+\tuple{ Conference=1,
+        Authors={M.~A.~Bender, A.~Bhattacharjee, A.~Conway, M.~Farach-Colton, R.~Johnson, S.~Kannan, W.~Kuszmaul, N.~Mukherjee, D.~E.~Porter, G.~Tagliavini, J.~Vorobyeva, E.~T.~West}, 
+        Title={ Paging and the Address Translation Problem},
+        Info={\emph{SPAA '21}},
+	DOI={10.1145/3409964.3461814}
+}
+
+\tuple{ Conference=1,
+	Authors={P.~Pandey, A.~Conway, J.~Durie, M.~A.~Bender, M.~Farach-Colton, R.~Johnson},
+	Title={Vector Quotient Filters: Overcoming the Time/Space Trade-Off in Filter Design},
+	Info={\emph{SIGMOD '21}},
+	DOI={10.1145/3448016.3452841},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3448016.3452841}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, R.~Das, M.~Farach-Colton, T.~M.~Mo, M.~Wang},
+	Title={Mitigating false positives in filters: to adapt or to cache?},
+	Info={\emph{APOCS '20}},
+	DOI={10.1137/1.9781611976489.2}
+}
+
+\tuple{ Conference=1,
+	Authors= {A.~Conway, A.~Gupta, V.~Chidambaram, M.~Farach-Colton, R.~P.~Spillane, A.~Tai, R.~Johnson},
+	Title={SplinterDB: Closing the Bandwidth Gap for NVMe Key-Value Stores},
+	Info={\emph{ATC '20}},
+	Link={https://www.usenix.org/system/files/atc20-conway.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors= {M.~A.~Bender, J.~W.~Berry, M.~Farach-Colton, R.~Johnson, T.~M.~Kroeger, P.~Pandey, C.~A.~Phillips, S.~Singh},
+	Title={Timely Reporting of Heavy Hitters using External Memory},
+	Info={\emph{SIGMOD '20}.  Selected for Special Issue of ACM Transactions on Database Systems, Best of SIGMOD 2020.  Results Reproduced Badge},
+	DOI={10.1145/3318464.3380598},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3318464.3380598}
+}
+
+\tuple{ Conference=1,
+	Authors= {Y.~Zhan, A.~Conway, Y.~Jiao, N.~Mukherjee, I.~Groombridge, M.~A.~Bender, M.~Farach-Colton, W.~Jannen, R.~Johnson, D.~E.~Porter, J.~Yuan},
+	Title={How to Copy Files},
+  Info={\emph{FAST '20}.  \textbf{Best Paper Award Finalist}.  Selected for Special Section for USENIX FAST 2020.  Invited for a summary in USENIX \emph{;login:}},
+	Link={https://www.usenix.org/system/files/fast20-zhan.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors= {Y.-J.~Chang, M.~Farach-Colton, T.-S.~Hsu, M.-T.~Tsai},
+	Title={Streaming Complexity of Spanning Tree Computation},
+	Info={\emph{STACS '20}},
+	DOI={10.4230/LIPIcs.STACS.2020.34},
+	Link={https://drops.dagstuhl.de/storage/00lipics/lipics-vol154-stacs2020/LIPIcs.STACS.2020.34/LIPIcs.STACS.2020.34.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors= {M.~A.~Bender, R.~Das, M.~Farach-Colton, R.~Johnson, W.~Kuszmaul},
+	Title={Flushing without Cascades},
+	Info={\emph{SODA '20}},
+	DOI={10.1137/1.9781611975994.40}
+}
+
+\tuple{ Conference=1,
+	Authors={E.~Allender, M.~Farach-Colton, M.-T.~Tsai},
+	Title={Syntactic Separation of Subset Satisfiability Problems},
+	Info={\emph{APPROX '19}},
+	DOI={10.4230/LIPIcs.APPROX-RANDOM.2019.16},
+	Link={https://doi.org/10.4230/lipics.approx-random.2019.16}
+}
+
+\tuple{ Conference=1,
+	Authors={A.~Conway, E.~Knorr, Y.~Jiao, M.~A.~Bender, W.~Jannen, R.~Johnson, D.~E.~Porter, M.~Farach-Colton},
+	Title={Filesystem Aging: It's more Usage than Fullness},
+	Info={\emph{HotStorage '19}},
+	Link={https://www.usenix.org/system/files/hotstorage19-paper-conway.pdf}
+}
+
+\tuple{ Conference=1,
+        Authors={M.~A.~Bender, A.~Conway, M.~Farach-Colton, W.~Jannen, Y.~Jiao, R.~Johnson, E.~Knorr, S.~McAllister, N.~Mukherjee, P.~Pandey, D.~E.~Porter, J.~Yuan, Y.~Zhan}, 
+        Title={Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design},
+        Info={\emph{SPAA '19}.  Selected for Special Issue for SPAA 2019},
+	DOI={10.1145/3323165.3323210},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3323165.3323210}
+}
+
+\tuple{ Conference=1,
+        Authors={M.~A.~Bender, M.~Farach-Colton, W.~Kuszmaul},
+        Title={Achieving Optimal Backlog in Multi-Processor Cup Games},
+        Info={\emph{STOC '19}},
+	DOI={10.1145/3313276.3316342},
+	Link={https://arxiv.org/pdf/1904.02861}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Awad, S.~Ashkiani, R.~Johnson, M.~Farach-Colton, J.~D.~Owens},
+	Title={Engineering a High-Performance GPU B-Tree},
+	Info={\emph{PPoPP '19}},
+	DOI={10.1145/3293883.3295706},
+	Link={https://dl.acm.org/doi/pdf/10.1145/3293883.3295706}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, A.~Conway, J.~Christensen, M.~Farach-Colton, R.~Johnson, M.-T.~Tsai},
+	Title={Optimal Ball Recycling},
+	Info={\emph{SODA '19}},
+	DOI={10.1137/1.9781611975482.155},
+	Link={https://arxiv.org/pdf/1807.01804}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton, M.~Li, M.-T.~Tsai},
+	Title={Streaming Algorithms for Planar Convex Hulls},
+	Info={\emph{ISAAC '18}},
+	DOI={10.4230/LIPIcs.ISAAC.2018.47},
+	Link={https://drops.dagstuhl.de/storage/00lipics/lipics-vol123-isaac2018/LIPIcs.ISAAC.2018.47/LIPIcs.ISAAC.2018.47.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, M.~Goswami, R.~Johnson, S.~McCauley, S.~Singh},
+	Title={Bloom Filters, Adaptivity, and the Dictionary Problem},
+	Info={\emph{FOCS '18}},
+	DOI={10.1109/focs.2018.00026},
+	Link={https://arxiv.org/pdf/1711.01616}
+}
+
+\tuple{ Conference=1,
+	Authors={A.~Conway, M.~Farach-Colton, P.~Shilane},
+	Title={Optimal Hashing in External Memory},
+	Info={\emph{ICALP '18}},
+	DOI={10.4230/LIPIcs.ICALP.2018.39},
+	Link={https://doi.org/10.4230/lipics.icalp.2018.39}
+}
+
+\tuple{ Conference=1,
+  Authors={S.~Ashkiani, M.~Farach-Colton, J.~D.~Owens},
+Title={A Dynamic Hash Table for the GPU},
+      Info={\emph{IPDPS '18}},
+	DOI={10.1109/ipdps.2018.00052},
+	Link={https://escholarship.org/uc/item/2p48q0zg}
+}
+
+\tuple{ Conference=1,
+  Authors={A.~Geil, M.~Farach-Colton, J.~D.~Owens},
+Title={Quotient Filters: Approximate Membership Queries on the GPU},
+      Info={\emph{IPDPS '18}},
+	DOI={10.1109/ipdps.2018.00055}
+}
+
+\tuple{ Conference=1,
+  Authors={S.~Ashkiani, S.~Li, M.~Farach-Colton, N.~Amenta, J.~D.~Owens},
+Title={GPU LSM: A Dynamic Dictionary Data Structure for the GPU},
+      Info={\emph{IPDPS '18}},
+	DOI={10.1109/ipdps.2018.00053},
+	Link={https://arxiv.org/pdf/1707.05354}
+}
+
+\tuple{ Conference=1,
+  Authors={Y.~Zhan, A.~Conway, Y.~Jiao, E.~Knorr, M.~A.~Bender, M.~Farach-Colton, W.~Jannen, R.~Johnson, D.~E.~Porter, J.~Yuan},
+Title={The Full Path to Full-Path Indexing},
+  Info={\emph{FAST '18}.  \textbf{Best Paper Award Finalist}.  Selected for Special Issue for USENIX FAST 2018},
+	Link={https://www.usenix.org/system/files/conference/fast18/fast18-zhan.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton},
+	Title={Mind the Gap},
+	Info={\emph{FUN '18} (Invited Paper)},
+	DOI={10.4230/LIPIcs.FUN.2018.1},
+	Link={https://doi.org/10.4230/lipics.fun.2018.1}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton},
+	Title={Dictionaries Revisited},
+	Info={\emph{SEA '17} (Invited Paper)},
+	DOI={10.4230/LIPIcs.SEA.2017.2},
+	Link={https://doi.org/10.4230/lipics.sea.2017.2}
+}
+
+\tuple{ Conference=1,
+  Authors={M.~A.~Bender, M.~Farach-Colton, R.~Johnson, S.~Mauras, T.~Mayer, C.~A.~Phillips, H.~Xu },
+    Title={Write-Optimized Skip Lists},
+      Info={\emph{PODS '17}},
+	DOI={10.1145/3034786.3056117},
+	Link={https://www.osti.gov/servlets/purl/1465492}
+}
+
+\tuple{ Conference=1,
+  Authors={A.~Conway, A.~Bakshi, Y.~Jiao, W.~Jannen, Y.~Zhan, J.~Yuan, M.~A.~Bender, R.~Johnson, B.~C.~Kuszmaul, D.~E.~Porter, M.~Farach-Colton},
+    Title={File Systems Fated for Senescence?  Nonsense, Says Science!},
+      Info={\emph{FAST '17}.  Invited for a special presentation at the SNIA Storage Developer Conference 2017.  Invited for a summary in USENIX \emph{;login:}},
+	Link={https://www.usenix.org/system/files/conference/fast17/fast17-conway.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors={P.~Afshani, M.~A.~Bender, M.~Farach-Colton, J.~Fineman, M.~Goswami, M.-T.~Tsai},
+	Title={Cross-Referenced Dictionaries and the Limits of Write Optimization},
+	Info={\emph{SODA '17}},
+	DOI={10.1137/1.9781611974782.99}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and A.~Roy},
+	Title={Parallel Lookups in String Indexes},
+	Info={\emph{SPIRE '16}},
+	DOI={10.1007/978-3-319-46049-9_6}
+}
+
+\tuple{ Conference=1,
+	Authors={W.~Jannen, D.~E.~Porter, M.~A.~Bender, R.~Johnson, B.~C.~Kuszmaul, M.~Farach-Colton},
+	Title={Lazy Analytics: Let Other Queries Do the Work For You},
+	Info={\emph{HotStorage '16}},
+	Link={https://www.usenix.org/system/files/conference/hotstorage16/hotstorage16_jannen.pdf}
+}
+
+\tuple{ Conference=1,
+  Authors={J.~Yuan, Y.~Zhan, W.~Jannen, P.~Pandey, A.~Akshintala, K.~Chandnani, P.~Deo, Z.~Kasheff, L.~Walsh, M.~A.~Bender, M.~Farach-Colton, R.~Johnson, B.~C.~Kuszmaul, D.~E.~Porter},
+  Title={Optimizing Every Operation in a Write-Optimized File System},
+  Info={\emph{FAST '16}.  \textbf{Best Paper Award}.  \textbf{Best of the Rest Award}, USENIX Annual Technical Conference 2016.  Selected for Special Issue for USENIX FAST 2016.  Invited for a special presentation at the SNIA Storage Developer Conference 2017},
+	Link={https://www.usenix.org/system/files/conference/fast16/fast16-papers-yuan.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, R.~Chowdhury, A.~Conway, M.~Farach-Colton, P.~Ganapathi, R.~Johnson, S.~McCauley, B.~Simon, S.~Singh},
+	Title={The I/O Complexity of Computing Prime Tables},
+	Info={\emph{LATIN '16}},
+	DOI={10.1007/978-3-662-49529-2_15}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and M.-T.~Tsai},
+	Title={Tight Approximations of Graph Degeneracy in Large Graphs},
+	Info={\emph{LATIN '16}},
+	DOI={10.1007/978-3-662-49529-2_32}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and M.-T.~Tsai},
+	Title={On the Complexity of Computing Prime Tables},
+	Info={\emph{ISAAC '15}},
+	DOI={10.1007/978-3-662-48971-0_57},
+	Link={https://arxiv.org/pdf/1504.05240}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton, T.-S.~Hsu, M.~Li, M.-T.~Tsai},
+	Title={Finding Articulation Points of Large Graphs in Linear Time},
+	Info={\emph{WADS '15}},
+	DOI={10.1007/978-3-319-21840-3_30}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, S.~Fekete, J.~Fineman, S.~Gilbert},
+	Title={Cost-Oblivious Reallocation for Scheduling and Planning},
+	Info={\emph{SPAA '15}},
+	DOI={10.1145/2755573.2755589}
+}
+
+\tuple{ Conference=1,
+  Authors={W.~Jannen, J.~Yuan, Y.~Zhan, A.~Akshintala, J.~Esmet, Y.~Jiao, A.~Mittal, P.~Pandey, P.~Reddy, L.~Walsh, M.~A.~Bender, M.~Farach-Colton, R.~Johnson, B.~C.~Kuszmaul, D.~E.~Porter},
+  Title={BetrFS: {A} Right-Optimized Write-Optimized File System},
+  Info={\emph{FAST '15}.  \textbf{Best Paper Award Finalist}.  Selected for Special Issue for USENIX FAST 2015},
+	Link={https://www.usenix.org/system/files/conference/fast15/fast15-paper-jannen_william.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, M.~Goswami, D.~Medjedovic, P.~Montes, M.-T.~Tsai},
+	Title={The Batched Predecessor Problem in External Memory},
+	Info={\emph{ESA '14}},
+	DOI={10.1007/978-3-662-44777-2_10}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton, K.~Leal, M.~A.~Mosteiro, C.~Thraves Caro},
+	Title={Dynamic Windows Scheduling with Reallocations},
+	Info={\emph{SEA '14}},
+	DOI={10.1007/978-3-319-07959-2_9},
+	Link={https://arxiv.org/pdf/1404.1087}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, S.~Fekete, J.~Fineman, S.~Gilbert},
+	Title={Cost-Oblivious Storage Reallocation},
+	Info={\emph{PODS '14}},
+	DOI={10.1145/2594538.2594548},
+	Link={https://arxiv.org/pdf/1404.2019}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and M.-T.~Tsai},
+	Title={Computing the Degeneracy of Large Graphs},
+	Info={\emph{LATIN '14}},
+	DOI={10.1007/978-3-642-54423-1_22}
+}
+
+\tuple{ Conference=1,
+	Authors={A.~Apostolico, M.~Crochemore, M.~Farach-Colton, Z.~Galil, S.~Muthukrishnan},
+	Title={Forty Years of Text Indexing},
+	Info={\emph{CPM '13}},
+	DOI={10.1007/978-3-642-38905-4_1}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and M.-T.~Tsai},
+	Title={Exact Sublinear Binomial Sampling},
+	Info={\emph{ISAAC '13}.  Selected for Special Issue for ISAAC 2013},
+	DOI={10.1007/978-3-642-45030-3_23}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, S.~Fekete, J.~Fineman, S.~Gilbert},
+	Title={Reallocation Problems in Scheduling},
+	Info={\emph{SPAA '13}},
+	DOI={10.1145/2486159.2486181},
+	Link={https://arxiv.org/pdf/1305.6555}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, R.~Johnson, R.~Kraner, B.~C.~Kuszmaul, D.~Medjedovic, P.~Montes, P.~Shetty, R.~P.~Spillane, E.~Zadok},
+	Title={Don't Thrash: How to Cache Your Hash on Flash},
+	Info={\emph{VLDB '12}},
+	DOI={10.14778/2350229.2350275},
+	Link={http://vldb.org/pvldb/vol5/p1627_michaelabender_vldb2012.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors={J.~Esmet, M.~A.~Bender, M.~Farach-Colton, B.~C.~Kuszmaul},
+	Title={The TokuFS File System},
+	Info={\emph{HotStorage '12}},
+	Link={https://www.usenix.org/system/files/conference/hotstorage12/hotstorage12-final52.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton, A.~Fern\'andez-Anta, A.~Milani, M.~A.~Mosteiro, S.~Zaks},
+	Title={Opportunistic Information Dissemination in Mobile Ad-hoc Networks: adaptiveness vs obliviousness and randomization vs determinism},
+	Info={\emph{LATIN '12}},
+	DOI={10.1007/978-3-642-29344-3_26},
+	Link={https://arxiv.org/pdf/1105.6151}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, R.~Johnson, B.~C.~Kuszmaul, D.~Medjedovic, P.~Montes, P.~Shetty, R.~P.~Spillane, E.~Zadok},
+	Title={Don't Thrash: How to Cache Your Hash on Flash},
+	Info={\emph{HotStorage '11}},
+	Link={https://www.usenix.org/events/hotstorage11/tech/final_files/Bender.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors={P.~S.~Almeida, C.~Baquero, M.~Farach-Colton, P.~Jesus, M.~A.~Mosteiro},
+	Title={Fault-Tolerant Aggregation: Flow Update Meets Mass Distribution},
+	Info={\emph{OPODIS '11}},
+	DOI={10.1007/978-3-642-25873-2_35},
+	Link={https://arxiv.org/pdf/1109.4373}
+}
+
+\tuple{ Conference=1,
+	Authors={A.~Mitrofanova, M.~Farach-Colton, B.~Mishra},
+	Title={Efficient and Robust Prediction Algorithms for Protein Complexes using Gomory-Hu Tree},
+	Info={\emph{PSB '09}},
+	DOI={10.1142/9789812836939_0021},
+	Link={http://psb.stanford.edu/psb-online/proceedings/psb09/mitrofanova.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and Y.~Huang},
+	Title={A Linear Delay Algorithm for Building Concept Lattices},
+	Info={\emph{CPM '08}},
+	DOI={10.1007/978-3-540-69068-9_20}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and M.~A.~Mosteiro},
+	Title={Sensor Network Gossiping or How to Break the Broadcast Lower Bound},
+	Info={\emph{ISAAC '07}},
+	DOI={10.1007/978-3-540-77120-3_22}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and M.~A.~Mosteiro},
+	Title={Initializing Sensor Networks of Non-uniform Density in the Weak Sensor Model},
+	Info={\emph{WADS '07}},
+	DOI={10.1007/978-3-540-73951-7_49}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, J.~Fineman, Y.~Fogel, B.~C.~Kuszmaul, J.~Nelson},
+	Title={Cache-Oblivious Streaming B-Trees},
+	Info={\emph{SPAA '07}},
+	DOI={10.1145/1248377.1248393}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and Y.~Huang},
+	Title={Lattice based clustering of temporal gene-expression matrices},
+	Info={\emph{SDM '07}},
+	DOI={10.1137/1.9781611972771.36}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton, R.~J.~Fernandes, M.~A.~Mosteiro},
+	Title={Lower Bounds for Clear Transmissions in Radio Networks},
+	Info={\emph{LATIN '06}},
+	DOI={10.1007/11682462_42}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, B.~C.~Kuszmaul},
+	Title={Cache-Oblivious String B-Trees},
+	Info={\emph{PODS '06}},
+	DOI={10.1145/1142351.1142385}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton, R.~J.~Fernandes, M.~A.~Mosteiro},
+	Title={Bootstrapping a Hop-optimal Network in the Weak Sensor Model},
+	Info={\emph{ESA '05}},
+	DOI={10.1007/11561071_73}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, S.~He, B.~C.~Kuszmaul, C.~E.~Leiserson},
+	Title={Adversarial Contention Resolution for Simple Channels},
+	Info={\emph{SPAA '05}},
+	DOI={10.1145/1073970.1074023}
+}
+
+\tuple{ Conference=1,
+	Authors={N.~Alon, M.~B\u{a}doiu, E.~Demaine, M.~Farach-Colton, M.~Hajiaghayi, A.~Sidiropoulos},
+	Title={Ordinal Embeddings of Minimum Relaxation: General Properties, Trees, and Ultrametrics},
+	Info={\emph{SODA '05}}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton, G.~Landau, C.~\c{S}ahinalp, D.~Tsur},
+	Title={Optimal spaced seeds for faster approximate string matching},
+	Info={\emph{ICALP '05}},
+	DOI={10.1007/11523468_101}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, S.~He, B.~C.~Kuszmaul, C.~E.~Leiserson},
+	Title={Adversarial Analyses of Window Backoff Strategies},
+	Info={\emph{IPDPS '04}, NSF Next Generation Software Program PI Workshop},
+	DOI={10.1109/IPDPS.2004.1303230}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton, Y.~Huang, J.~Woolford},
+	Title={Discovering Temporal Relations in Molecular Pathways Using Protein-Protein Interactions},
+	Info={\emph{RECOMB '04}},
+	DOI={10.1145/974614.974635}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, M.~Farach-Colton, M.~A.~Mosteiro},
+	Title={Insertion Sort is $O(n\log n)$},
+	Info={\emph{FUN '04}.  Selected for Special Issue for FUN 2004},
+	Link={https://arxiv.org/pdf/cs/0407003}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton},
+	Title={Adventures at Google},
+	Info={\emph{ENC '03} (Invited Paper)},
+	DOI={10.1109/enc.2003.1232863}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender and M.~Farach-Colton},
+	Title={The Level Ancestor Problem Simplified},
+	Info={\emph{LATIN '02}},
+	DOI={10.1007/3-540-45995-2_44}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, R.~Cole, E.~Demaine, M.~Farach-Colton, J.~Zito},
+	Title={Two Simplified Algorithms for Maintaining Order in a List},
+	Info={\emph{ESA '02}},
+	DOI={10.1007/3-540-45749-6_17}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, R.~Cole, E.~Demaine, M.~Farach-Colton},
+	Title={Scanning and Traversing: Maintaining Data for Traversals in a Memory Hierarchy},
+	Info={\emph{ESA '02}},
+	DOI={10.1007/3-540-45749-6_16}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, E.~Demaine, M.~Farach-Colton},
+	Title={Efficient Tree Layout in a Multilevel Memory Hierarchy},
+	Info={\emph{ESA '02}},
+	DOI={10.1007/3-540-45749-6_18},
+	Link={https://arxiv.org/pdf/cs/0211010}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Charikar, K.~Chen, M.~Farach-Colton},
+	Title={Finding Frequent Items in Data Streams},
+	Info={\emph{ICALP '02}},
+	DOI={10.1007/3-540-45465-9_59}
+}
+
+\tuple{ Conference=1,
+	Authors={R.~Shah and M.~Farach-Colton},
+	Title={Undiscretized Dynamic Programming: Faster Algorithms for Facility Location and Related Problems on Trees},
+	Info={\emph{SODA '02}}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and G.~Hristescu},
+	Title={Structure-based Feature Extraction from Protein Databases},
+	Info={\emph{METMBS '01}}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and R.~Shah},
+	Title={On the Midpath Tree Conjecture: A Counter-Example},
+	Info={\emph{SODA '01}}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and G.~Hristescu},
+	Title={COFE: A Scalable Method for Feature Extraction from Complex Objects},
+	Info={\emph{DaWaK '00}},
+	DOI={10.1007/3-540-44466-1_36}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender and M.~Farach-Colton},
+	Title={The LCA Problem Revisited},
+	Info={\emph{LATIN '00}.  \textbf{Imre Simon Test of Time Award}},
+	DOI={10.1007/10719839_9}
+}
+
+\tuple{ Conference=1,
+	Authors={K.~Chen, D.~Durand, M.~Farach-Colton},
+	Title={Notung: Dating gene duplications using gene family trees},
+	Info={\emph{RECOMB '00}},
+	DOI={10.1145/332306.332351}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~A.~Bender, E.~Demaine, M.~Farach-Colton},
+	Title={Cache-Oblivious B-Trees},
+	Info={\emph{FOCS '00}},
+	DOI={10.1109/sfcs.2000.892128}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and P.~Indyk},
+	Title={Approximate Nearest Neighbor Algorithms for Hausdorff Metrics via Embeddings},
+	Info={\emph{FOCS '99}},
+	DOI={10.1109/sffcs.1999.814589}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton, U.~Kremer, V.~Liberatore},
+	Title={Evaluation of Algorithms for Local Register Allocation},
+	Info={\emph{CC '99}},
+	DOI={10.1007/978-3-540-49051-7_10},
+	Link={https://link.springer.com/content/pdf/10.1007/978-3-540-49051-7_10.pdf}
+}
+
+\tuple{ Conference=1,
+	Authors={Y.~Bartal, M.~Farach-Colton, S.~Yooseph, L.~Zhang},
+	Title={Fast, Fair and Frugal Bandwidth Allocation in ATM Networks},
+	Info={\emph{SODA '99}}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach, P.~Ferragina, S.~Muthukrishnan},
+	Title={Overcoming Memory Bottlenecks in Suffix Tree Construction},
+	Info={\emph{FOCS '98}},
+	DOI={10.1109/sfcs.1998.743441}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach-Colton and V.~Liberatore},
+	Title={On Local Register Allocation},
+	Info={\emph{SODA '98}}
+}
+
+\tuple{ Conference=1,
+	Label={tight-mle},
+	Authors={A.~Ambainis, R.~Desper, M.~Farach, S.~Kannan},
+	Title={Nearly Tight Bounds on the Learnability of Evolution},
+	Info={\emph{FOCS '97}},
+	DOI={10.1109/sfcs.1997.646141}
+}
+
+\tuple{ Conference=1,
+	Label={random-rigor},
+	Authors={C.~Womack and M.~Farach},
+	Title={Randomization, Rigor and Persuasiveness in Proofs},
+	Info={\emph{Logic and Mathematical Reasoning '97}}
+}
+
+\tuple{ Conference=1,
+	Label={DNA-par},
+	Authors={G.~Hristescu, C.~Benham, M.~Farach},
+	Title={DNA Strand Separation Prediction: A Parallel Implementation},
+	Info={\emph{PDPTA '97}}
+}
+
+\tuple{ Conference=1,
+	Label={Groups:SEQ},
+	Authors={M.~Farach, S.~Kannan, E.~Knill, S.~Muthukrishnan},
+	Title={Group Testing Problems with Sequences in Experimental Molecular Biology},
+	Info={\emph{SEQUENCES '97}},
+	DOI={10.1109/sequen.1997.666930}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach},
+	Title={Optimal Suffix Tree Construction with Large Alphabets},
+	Info={\emph{FOCS '97}},
+	DOI={10.1109/sfcs.1997.646102}
+}
+
+\tuple{ Conference=1,
+	Authors={J.~Cohen and M.~Farach},
+	Title={Numerical Taxonomy on Data: Experimental Results},
+	Info={\emph{SODA '97}}
+}
+
+\tuple{ Conference=1,
+	Authors={R.~Agarwala, S.~Batzoglou, V.~Dan{\v c}{\'\i}k, S.~Decatur, M.~Farach, S.~Hannenhalli, S.~Muthukrishnan, S.~Skiena},
+	Title={Local Rules for Protein Folding on the Triangular Lattice and Generalized Hydrophobicity in the HP Model},
+	Info={\emph{SODA '97}}
+}
+
+\tuple{ Conference=1,
+	Label={FM:hashing},
+	Authors={M.~Farach and S.~Muthukrishnan},
+	Title={Perfect Hashing for Strings: Formalization, Algorithms and Open Problems},
+	Info={\emph{CPM '96}},
+	DOI={10.1007/3-540-61258-0_11}
+}
+
+\tuple{ Conference=1,
+	Authors={G.~Christopher, M.~Farach, M.~Trick},
+	Title={The Structure of Circular Decomposable Metrics},
+	Info={\emph{ESA '96}},
+	DOI={10.1007/3-540-61680-2_77}
+}
+
+\tuple{ Conference=1,
+	Authors={R.~Agarwala, V.~Bafna, M.~Farach, M.~Paterson, M.~Thorup},
+	Title={On the Approximability of Numerical Taxonomy (Fitting Distances by Tree Metrics)},
+	Info={\emph{SODA '96}}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach and S.~Kannan},
+	Title={Efficient Algorithms for Inverting Evolution},
+	Info={\emph{STOC '96}},
+	DOI={10.1145/237814.237868},
+	Link={https://dl.acm.org/doi/pdf/10.1145/237814.237868}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach and S.~Muthukrishnan},
+	Title={Optimal Logarithmic Time Randomized Suffix Tree Construction},
+	Info={\emph{ICALP '96}},
+	DOI={10.1007/3-540-61440-0_158}
+}
+
+\tuple{	Conference=1,
+	Label={FTP:Algorithmica},
+	Authors={M.~Farach, T.~Przytycka, M.~Thorup},
+	Title={Computing the Agreement of Trees with Bounded Degrees},
+	Info={\emph{ESA '95}},
+	DOI={10.1007/3-540-60313-1_157}
+}
+
+\tuple{ Conference=1,
+	Label={FM:par-comp},
+	Authors={M.~Farach and S.~Muthukrishnan},
+	Title={Optimal Parallel Dictionary Matching and Compression},
+	Info={\emph{SPAA '95}},
+	DOI={10.1145/215399.215451},
+	Link={https://dl.acm.org/doi/pdf/10.1145/215399.215451}
+}
+
+\tuple{ Conference=1,
+	Label={FNSSWZ:entropy},
+	Authors={M.~Farach, M.~Noordewier, S.~Savari, L.~Shepp, A.~Wyner, J.~Ziv},
+	Title={On the Entropy of DNA: Algorithms and Measurements based on Memory and Rapid Convergence},
+	Info={\emph{SODA '95}}
+}
+
+\tuple{ Conference=1,
+	Authors={M.~Farach and M.~Thorup},
+	Title={String Matching in Lempel-Ziv Compressed Strings},
+	Info={\emph{STOC '95}},
+	DOI={10.1145/225058.225288},
+	Link={https://dl.acm.org/doi/pdf/10.1145/225058.225288}
+}
+
+\tuple{	Conference=1,
+	Label={GFB:indexing},
+	Authors={M.~Gu., M.~Farach, R.~Beigel},
+	Title={An Efficient Algorithm for Dynamic Text Indexing},
+	Info={\emph{SODA '94}}
+}
+
+\tuple{ Conference=1,
+        Authors={M.~Farach and M.~Thorup},
+        Title={Optimal Evolutionary Tree Comparison by Sparse Dynamic Programming},
+        Info={\emph{FOCS '94}},
+	DOI={10.1109/sfcs.1994.365716}
+}
+
+\tuple{	Conference=1,
+	Authors={A.~Amir, G.~Benson, M.~Farach},
+	Title={Let Sleeping Files Lie: Pattern Matching in Z-compressed Files},
+	Info={\emph{SODA '94}},
+	Link={https://doi.org/10.1006/jcss.1996.0023}
+}
+
+\tuple{	Conference=1,
+	Authors={M.~Farach and M.~Thorup},
+	Title={Fast Comparison of Evolutionary Trees},
+	Info={\emph{SODA '94}}
+}
+
+\tuple{	Conference=1,
+	Authors={A.~Amir, G.~Benson, M.~Farach},
+	Title={Optimal Two Dimensional Compressed Matching}, 
+	Info={\emph{ICALP '94}},
+	DOI={10.1007/3-540-58201-0_70}
+}
+
+\tuple{	Conference=1,
+	Authors={M.~Farach, S.~Kannan, T.~Warnow},
+	Title={A Robust Model for Finding Optimal Evolutionary Trees},
+	Info={\emph{STOC '93}},
+	DOI={10.1145/167088.167132}
+}
+
+\tuple{ Conference=1,
+	Authors={A.~Amir, G.~Benson, M.~Farach},
+	Title={Parallel Two Dimensional Pattern Matching},
+	Info={\emph{SPAA '93}},
+	DOI={10.1145/165231.165242}
+}
+
+\tuple{	Conference=1,
+	Authors={A.~Amir, M.~Farach, R.~Idury, H.~La Poutr\'{e}, A.~Sch\"affer},
+	Title={Improved Dynamic Dictionary Matching},
+	Info={\emph{SODA '93}},
+	Link={https://doi.org/10.1006/inco.1995.1090}
+}
+
+\tuple{	Conference=1,
+	Label={AFM:randdict},
+	Authors={A.~Amir, M.~Farach, Y.~Matias},
+	Title={Efficient Randomized Dictionary Matching Algorithms},
+	Info={\emph{CPM '92}},
+	DOI={10.1007/3-540-56024-6_21}
+}
+
+\tuple{	Conference=1,
+	Authors={A.~Amir, G.~Benson, M.~Farach},
+	Title={Alphabet Independent Two Dimensional Matching},
+	Info={\emph{STOC '92}},
+	DOI={10.1145/129712.129719},
+	Link={https://dl.acm.org/doi/pdf/10.1145/129712.129719}
+}
+
+\tuple{	Conference=1,
+	Authors={A.~Amir and M.~Farach},
+	Title={Adaptive Dictionary Matching},
+	Info={\emph{FOCS '91}},
+	DOI={10.1109/sfcs.1991.185445}
+}
+
+\tuple{	Conference=1,
+	Authors={A.~Amir and M.~Farach},
+	Title={Efficient 2-dimensional Approximate Matching of Non-rectangular Figures},
+	Info={\emph{SODA '91}}
+}
+
+\tuple{	Conference=1,
+	Authors={A.~Amir and M.~Farach},
+	Title={The Whole is Faster than its Parts},
+	Info={\emph{FAI '89}}
+}
+
+\tuple{ Book=1,
+Info={Y.~Zhan, A.~Conway, Y.~Jiao, N.~Mukherjee, I.~Groombridge, M.~A.~Bender, M.~Farach-Colton, W.~Jannen, R.~Johnson, D.~E.~Porter, J.~Yuan. How to Not Copy Files.  In \emph{;login:}, '20}
+    }
+
+\tuple{ Book=1,
+      Info={A.~Conway, A.~Bakshi, Y.~Jiao, W.~Jannen, Y.~Zhan, J.~Yuan, M.~A.~Bender, R.~Johnson, B.~C.~Kuszmaul, D.~E.~Porter, M.~Farach-Colton. How to Fragment Your File System.  In \emph{;login:}, '17}
+      }
+
+\tuple{ Book=1,
+	Info={M.~Farach-Colton, Lowest Common Ancestors in Trees.  In {\em Encyclopedia of Algorithms}, Springer Verlag.  Ming-Yang Kao, editor, '16},
+	DOI={10.1007/978-1-4939-2864-4_630}
+}
+
+\tuple{ Book=1,
+	Info={M.~A.~Bender, M.~Farach-Colton, W.~Jannen, R.~Johnson, B.~C.~Kuszmaul, D.~E.~Porter, J.~Yuan, Y.~Zhan. An Introduction to $B^\varepsilon$-trees and Write-Optimization.  In \emph{;login:}, '15}
+    }
+
+
+
+\tuple{ Book=1,
+	Info={D.~Durand and M.~Farach-Colton, On the Design of Optimization Criteria for Multiple Sequence Alignment.  In {\em Biological Evolution and Statistical Physics}, Springer Verlag.  Michael L\"{a}ssig and Angelo Valleriani, editors, '02},
+	DOI={10.1007/3-540-45692-9_2}
+}
+
+\tuple{ Book=1,
+	Info={M.~Farach, F.~Roberts, M.~Vingron, M.~Waterman, Editors. {\em Mathematical Support for Molecular Biology}, DIMACS Book Series, '99},
+	DOI={10.1090/dimacs/047}
+}
+
+\tuple{	Book=1,
+	Info={A.~Amir and M.~Farach, Extensions of String Matching and Array Pattern Matching. In {\em Pattern Matching Algorithms and Applications}, A.~Apostolico and Z.~Galil, Editors, '97}
+}
+
+
+

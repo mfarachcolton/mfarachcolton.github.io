@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Publications · Martín Farach-Colton</title>
+<meta name="description" content="Publications of Martín Farach-Colton.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="./">Martín Farach-Colton</a>
+    <nav>
+      <a href="./">Home</a>
+      <a href="./#group">Group</a>
+      <a href="publications.html" aria-current="page">Publications</a>
+      <a href="cv.pdf">CV</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <h1 class="page-title">Publications</h1>
+  <p class="lede">{{JOURNALS}} journal articles and {{CONFERENCES}} conference papers. Titles link to a free copy where one is available.
+    Also on <a href="https://scholar.google.com/citations?user=2uHUSa8AAAAJ">Google Scholar</a> and
+    <a href="https://dblp.org/pid/f/MartinFarachColton">dblp</a>.</p>
+
+  <div class="pubtools">
+    <input id="q" type="search" placeholder="Filter by title, author, venue, or year" aria-label="Filter publications">
+    <div class="seg" role="group" aria-label="Publication type">
+      <button type="button" data-show="all" aria-pressed="true">All</button>
+      <button type="button" data-show="journal" aria-pressed="false">Journal</button>
+      <button type="button" data-show="conference" aria-pressed="false">Conference</button>
+    </div>
+  </div>
+
+{{PUBLICATIONS}}
+</main>
+
+<footer>
+  <div class="wrap">Department of Computer Science and Engineering, New York University</div>
+</footer>
+
+<script>
+(function () {
+  var q = document.getElementById("q");
+  var buttons = document.querySelectorAll(".seg button");
+  var show = "all";
+  function apply() {
+    var terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
+    document.querySelectorAll("section.year").forEach(function (sec) {
+      var visible = 0;
+      var sectionOn = show === "all" || sec.id === show;
+      sec.querySelectorAll("li").forEach(function (li) {
+        var text = li.textContent.toLowerCase();
+        var on = sectionOn && terms.every(function (t) { return text.indexOf(t) !== -1; });
+        li.hidden = !on;
+        if (on) visible++;
+      });
+      sec.hidden = visible === 0;
+    });
+  }
+  q.addEventListener("input", apply);
+  buttons.forEach(function (b) {
+    b.addEventListener("click", function () {
+      show = b.dataset.show;
+      buttons.forEach(function (x) { x.setAttribute("aria-pressed", x === b ? "true" : "false"); });
+      apply();
+    });
+  });
+})();
+</script>
+</body>
+</html>
